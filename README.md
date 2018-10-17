@@ -1,4 +1,4 @@
-# listeningStation
+# Listening Station
 
 Code for the KGNU Listening Stations. Originally created for Listening Together installation at the Museum of Boulder.
 
